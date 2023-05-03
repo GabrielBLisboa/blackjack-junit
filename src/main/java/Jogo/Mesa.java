@@ -12,7 +12,7 @@ import static Jogo.Jogadas.*;
 
 public class Mesa {
 
-// aqui é onde começa o jogo
+// aqui é onde começa o jogo só que não
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String querNovaCarta;
